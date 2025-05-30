@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLOps Engineer - 3 Hour Take-Home Assessment
 
 ## Overview
@@ -51,3 +52,6 @@ This assessment evaluates your practical MLOps skills through three interconnect
 ---
 
 Let's begin! Good luck! 🚀
+=======
+# take-home-assessment
+>>>>>>> b6cc47a3f7eb7ce4e210abeb84dcecb62fb803a2

@@ -42,3 +42,4 @@ ENV/
 
 # Data files
 *.csv
+.DS_Store
